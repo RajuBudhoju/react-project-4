@@ -10,6 +10,41 @@
   margin: 0;
   padding: 0;
 }
+.form {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-bottom: 3%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.form button:hover {
+  background-color: #45a049;
+}
+
+/* Add more styles as needed */
+
 
 @keyframes meals-appear {
   from {

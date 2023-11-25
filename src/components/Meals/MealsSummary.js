@@ -3,14 +3,12 @@ import classes from './MealsSummary.module.css';
 const MealsSummary = () => {
   return (
     <section className={classes.summary}>
-      <h2>Delicious Food, Delivered To You</h2>
+      <h2>Indulge in Bliss</h2>
       <p>
-        Choose your favorite meal from our broad selection of available meals
-        and enjoy a delicious lunch or dinner at home.
-      </p>
-      <p>
-        All our meals are cooked with high-quality ingredients, just-in-time and
-        of course by experienced chefs!
+       Kayos Chocolates Unveil a world of sensory delight as you unwrap the opulence of Kayos chocolates. 
+       From the hands of expert chocolatiers, each piece is a masterpiece, combining the 
+       finest ingredients to create an unparalleled indulgence. 
+       Elevate your everyday moments with the exquisite pleasure found in every bite, and treat yourself to the luxury that is kayos chocolates—a celebration of life's sweetest pleasures.
       </p>
     </section>
   );
